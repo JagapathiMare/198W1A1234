@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+main()
 {
 printf("Hello world");
-return(0);
+printf("This is Jagpathi");
 }
 
